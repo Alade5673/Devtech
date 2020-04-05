@@ -1,4 +1,4 @@
-# ewa_mall
+# DEVtech ecommerce app
 
 A new Flutter application.
 
